@@ -95,8 +95,3 @@ button {
 button:hover {
   background: #6c8cff;
 }
-
-title{
-  display: none;
-  list-style: none;
-}
